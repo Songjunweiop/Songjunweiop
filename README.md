@@ -21,3 +21,4 @@ HTML         8 mins          █▓░░░░░░░░░░░░░░░
 Vue.js       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 ```
 <!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@d954f3ff-1dfa-497b-bc4c-e8c401cba1bd/e0c2ace2-0169-4636-a1de-410df38de727.svg"></embed></figure>
