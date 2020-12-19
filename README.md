@@ -4,7 +4,7 @@
 
 <img align="right" alt="Songjunwei's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Songjunweiop&show_icons=true">
 
-I'm **Wesley song**, a Junior front end development engineer from Chengdu, China.
+I'm **Wesley Song**, a Junior front end development engineer from Chengdu, China.
 
 - 🔭 I’m currently working on Silk Software
 - 🌱 I’m currently using React and Vue
