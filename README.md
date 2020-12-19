@@ -13,7 +13,7 @@ I'm **Wesley Song**, a Junior front end development engineer from Chengdu, China
 <img width="60%" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" />
 
 
-
+My programming status last week:
 <!--START_SECTION:waka-->
 ```text
 Other        1 hr 18 mins    █████████████████░░░░░░░░   67.80 % 
