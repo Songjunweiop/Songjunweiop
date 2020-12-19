@@ -12,6 +12,16 @@ I'm **Wesley Song**, a Junior front end development engineer from Chengdu, China
 - 📫 How to reach me: <wesleysong1999@gmail.com>
 - 💞 Have a girlfriend fortunately
 
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Songjunweiop" />
+💻<br>
+💻<br>
+💻<br>
+
+
+
+
+
+
 <!--START_SECTION:waka-->
 ```text
 Other        1 hr 18 mins    █████████████████░░░░░░░░   67.80 % 
@@ -21,4 +31,4 @@ HTML         8 mins          █▓░░░░░░░░░░░░░░░
 Vue.js       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 ```
 <!--END_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@d954f3ff-1dfa-497b-bc4c-e8c401cba1bd/e0c2ace2-0169-4636-a1de-410df38de727.svg"></embed></figure>
+
