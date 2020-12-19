@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-**Songjunweiop/Songjunweiop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img align="right" alt="Songjunwei's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Songjunweiop&show_icons=true">
 
