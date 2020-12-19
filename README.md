@@ -1,21 +1,19 @@
 ### Hi there 👋
 
 
-<!---**Songjunweiop/Songjunweiop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**Songjunweiop/Songjunweiop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img align="right" alt="Songjunwei's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Songjunweiop&show_icons=true">
 
-Here are some ideas to get you started:
+I'm **Wesley song**, a Junior front end development engineer from Chengdu, China.
 
 - 🔭 I’m currently working on Silk Software
 - 🌱 I’m currently learning React and Vue
-<!--- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
--->
 - 💞 Have a girl-friend...
 
 <!--START_SECTION:waka-->
