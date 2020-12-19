@@ -9,7 +9,7 @@ I'm **Wesley Song**, a Junior front end development engineer from Chengdu, China
 - 📫 How to reach me: <wesleysong1999@gmail.com>
 - 💞 Have a girlfriend fortunately
 
-<img width="30%" height="220px" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Songjunweiop" />
+<img width="30%" height="300px" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Songjunweiop" />
 <img width="66%" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" />
 
 
