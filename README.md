@@ -21,5 +21,5 @@ HTML         8 mins          █▓░░░░░░░░░░░░░░░
 Vue.js       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 ```
 <!--END_SECTION:waka-->
-<img width="66%" style="padding: 0px;" align="left" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" />
+<img  width="66%" style="top: -80px;position: relative;" align="left" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" />
 
