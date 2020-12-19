@@ -2,8 +2,6 @@
 
 
 
-<img align="right" alt="Songjunwei's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Songjunweiop&show_icons=true">
-
 I'm **Wesley Song**, a Junior front end development engineer from Chengdu, China.
 
 - 🔭 I’m currently working on Silk Software
@@ -12,15 +10,10 @@ I'm **Wesley Song**, a Junior front end development engineer from Chengdu, China
 - 📫 How to reach me: <wesleysong1999@gmail.com>
 - 💞 Have a girlfriend fortunately
 
-<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Songjunweiop" />
+
 💻<br>
 💻<br>
 💻<br>
-
-
-
-
-
 
 <!--START_SECTION:waka-->
 ```text
@@ -32,3 +25,6 @@ Vue.js       6 mins          █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Songjunweiop" />
+
+<img align="right" alt="Songjunwei's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Songjunweiop&show_icons=true">
