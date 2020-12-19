@@ -16,13 +16,13 @@ I'm **Wesley Song**, a Junior front end development engineer from Chengdu, China
 <br>
 &nbsp;&nbsp;🤣
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤣&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**My programming status last week:**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤣
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤣
 <br>
 &nbsp;🤣&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤣
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤣🤣
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤣🤣&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp **My programming status last week:**
 
 <!--START_SECTION:waka-->
 ```text
