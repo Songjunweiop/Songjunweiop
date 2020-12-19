@@ -7,11 +7,10 @@
 I'm **Wesley song**, a Junior front end development engineer from Chengdu, China.
 
 - 🔭 I’m currently working on Silk Software
-- 🌱 I’m currently learning React and Vue
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about 
-- 📫 How to reach me: [wesleysong1999@gmail.com]( wesleysong1999@gmail.com)
-- 💞 Have a girl-friend ...
+- 🌱 I’m currently using React and Vue
+- 💬 In my blog: [Songjunweiop Blog](https://songjunweiop.github.io/)
+- 📫 How to reach me: <wesleysong1999@gmail.com>
+- 💞 Have a girlfriend fortunately
 
 <!--START_SECTION:waka-->
 ```text
