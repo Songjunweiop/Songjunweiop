@@ -13,7 +13,7 @@ I'm **Wesley Song**, a Junior front end development engineer from Chengdu, China
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖥
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⌨🖱
-<br>
+<br><br>
 
 **My programming status last week**
 
