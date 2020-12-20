@@ -27,6 +27,8 @@ My programming status last week
 
 <!--START_SECTION:waka-->
 ```text
+Week: 12 December, 2020 - 19 December, 2020
+
 Other        7 hrs 40 mins   ██████████████████████▒░░   89.15 % 
 JavaScript   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
