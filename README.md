@@ -12,18 +12,8 @@ I'm **Wesley Song**, a Junior front end development engineer from Chengdu, China
 <img height="267px" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Songjunweiop" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤣🤣
 <br>
-&nbsp;🤣&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤣
-<br>
-&nbsp;&nbsp;🤣
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤣
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤣
-<br>
-&nbsp;🤣&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤣
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤣🤣&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp 
-My programming status last week
+
+**My programming status last week**
 
 <!--START_SECTION:waka-->
 ```text
