@@ -27,11 +27,11 @@ My programming status last week
 
 <!--START_SECTION:waka-->
 ```text
-Other        1 hr 18 mins    █████████████████░░░░░░░░   67.80 % 
-JSON         10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-JavaScript   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-HTML         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Vue.js       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Other        7 hrs 40 mins   ██████████████████████▒░░   89.15 % 
+JavaScript   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 <!--END_SECTION:waka-->
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" />
