@@ -19,13 +19,13 @@ I'm **Wesley Song**, a Junior front end development engineer from Chengdu, China
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 December, 2020 - 19 December, 2020
+Week: 13 December, 2020 - 20 December, 2020
 
-Other        7 hrs 40 mins   ██████████████████████▒░░   89.15 % 
-JavaScript   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Other        10 hrs 35 mins  ██████████████████████▒░░   89.58 % 
+JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+JavaScript   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 <!--END_SECTION:waka-->
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" />
