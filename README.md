@@ -28,5 +28,5 @@ Markdown     12 mins         ▒░░░░░░░░░░░░░░░░
 HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 <!--END_SECTION:waka-->
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" />
+<img src="https://s3.ax1x.com/2020/12/21/r0kCbn.png" />
 
