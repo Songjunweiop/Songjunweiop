@@ -19,13 +19,13 @@ I'm **Wesley Song**, a Junior front end development engineer from Chengdu, China
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 December, 2020 - 20 December, 2020
+Week: 14 December, 2020 - 21 December, 2020
 
-Other        10 hrs 35 mins  ██████████████████████▒░░   89.58 % 
-JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-JavaScript   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Other        19 hrs 46 mins  ███████████████████████░░   92.46 % 
+JavaScript   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+JSON         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 <!--END_SECTION:waka-->
 <img src="https://s3.ax1x.com/2020/12/21/r0kCbn.png" />
