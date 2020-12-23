@@ -17,7 +17,7 @@ I'm **Wesley Song**, a Junior front end development engineer from Chengdu, China
 
 **My programming status last week**
 
-<img height="170px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=WesleySong&hide_title=true" />
+<img style="margin-bottom: 10px" height="170px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=WesleySong&hide_title=true" />
 <br>
 <img src="https://s3.ax1x.com/2020/12/21/r0kCbn.png" />
 
