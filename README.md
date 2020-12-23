@@ -13,11 +13,11 @@ I'm **Wesley Song**, a Junior front end development engineer from Chengdu, China
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖥
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⌨🖱
-<br><br>
+<br>
 
 **My programming status last week**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=WesleySong&hide_title=true" />
-
+<img height="170px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=WesleySong&hide_title=true" />
+<br>
 <img src="https://s3.ax1x.com/2020/12/21/r0kCbn.png" />
 
