@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="Songjunwei's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Songjunweiop&show_icons=true">
+<img align="right" alt="Songjunwei's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Songjunweiop&show_icons=true&hide=contribs,issues&include_all_commits=true">
 
 I'm **Wesley Song**, a Junior front end development engineer from Chengdu, China.
 
