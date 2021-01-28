@@ -3,7 +3,7 @@
 
 I'm **Wesley Song**, a Junior front end development engineer from Chengdu, China.
 
-- 🔭 I’m currently working on Silk Software
+- 🔭 I’m currently working on nowhere...
 - 🌱 I’m currently using React and Vue
 - 💬 In my blog: [Songjunweiop Blog](https://songjunweiop.github.io/)
 - 📫 How to reach me: <wesleysong1999@gmail.com>
